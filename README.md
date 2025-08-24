@@ -10,16 +10,14 @@
   <p>
     <a href="https://your-portfolio.site">Portfolio</a> ·
     <a href="https://velog.io/@10012/posts">Blog</a> ·
-    <a href="mailto:nas7062@naver.com">Email</a>
   </p>
 </div>
 
 <!-- ===== 소개 ===== -->
 ### 👋 About me
-- 지금 하는 일: 프론트엔드 개발
+- 목표: 프론트엔드 개발자
 - 좋아하는 것: 성능 최적화, 클린 코드
 - 지금 배우는 것: React,TypeScript
-- 목표: 프론트엔드 개발자
 
 <!-- ===== 기술 스택 ===== -->
 ### 🧰 Tech Stack
