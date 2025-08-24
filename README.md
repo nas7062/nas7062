@@ -9,7 +9,7 @@
   <!-- 퀵 링크 -->
   <p>
     <a href="https://your-portfolio.site">Portfolio</a> ·
-    <a href="https://velog.io/@10012/posts">Blog</a> ·
+    <a href="https://velog.io/@10012/posts">Blog</a> 
   </p>
 </div>
 
