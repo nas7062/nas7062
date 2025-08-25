@@ -15,6 +15,6 @@ jobs:
       - name: Update README with Velog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://v2.velog.io/rss/@nas7062"
+          feed_list: "https://v2.velog.io/rss/@10012"
           # max_post_count: "5"        # 표시할 글 개수(기본 5개)
           # template: "$title - $url"  # 한 줄 템플릿
