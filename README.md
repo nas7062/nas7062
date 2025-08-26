@@ -8,7 +8,7 @@
   <p><b>문제 해결을 좋아하는 개발자 · 배움을 기록하는 사람</b></p>
   <!-- 퀵 링크 -->
   <p>
-    <a href="https://your-portfolio.site">Portfolio</a> ·
+    <a href="https://portpolio-10012.vercel.app/">Portfolio</a> ·
     <a href="https://velog.io/@10012/posts">Blog</a> 
   </p>
 </div>
