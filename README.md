@@ -31,10 +31,10 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[CSS] Flexbox Grid](https://velog.io/@10012/CSS-Flexbox-Grid)
 - [[JavaScript] localeCompare](https://velog.io/@10012/JavaScript-localeCompare)
 - [useReducer](https://velog.io/@10012/useReducer)
 - [TypeScript와 React](https://velog.io/@10012/TypeScript%EC%99%80-React)
 - [TypeScript 유틸리티 타입](https://velog.io/@10012/TypeScript-%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0-%ED%83%80%EC%9E%85)
-- [TypeScript 조건부 타입](https://velog.io/@10012/TypeScript-%EC%A1%B0%EA%B1%B4%EB%B6%80-%ED%83%80%EC%9E%85)
 <!-- BLOG-POST-LIST:END -->
 
