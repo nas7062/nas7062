@@ -31,10 +31,10 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[React] Zustand 알아보기](https://velog.io/@10012/React-Zustand-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
+- [브라우저 렌더링을 알아보자!](https://velog.io/@10012/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EB%A0%8C%EB%8D%94%EB%A7%81)
 - [[CSS] Flexbox Grid](https://velog.io/@10012/CSS-Flexbox-Grid)
 - [[JavaScript] localeCompare](https://velog.io/@10012/JavaScript-localeCompare)
 - [useReducer](https://velog.io/@10012/useReducer)
-- [TypeScript와 React](https://velog.io/@10012/TypeScript%EC%99%80-React)
-- [TypeScript 유틸리티 타입](https://velog.io/@10012/TypeScript-%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0-%ED%83%80%EC%9E%85)
 <!-- BLOG-POST-LIST:END -->
 
