@@ -31,10 +31,10 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Algorithm] 투 포인터 / 슬라이딩 윈도우](https://velog.io/@10012/Algorithm-%ED%88%AC-%ED%8F%AC%EC%9D%B8%ED%84%B0-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%94%A9-%EC%9C%88%EB%8F%84%EC%9A%B0)
 - [[React]useMemo](https://velog.io/@10012/ReactuseMemo)
 - [[JavaScript]var,let,const](https://velog.io/@10012/JavaScriptvarletconst)
 - [[React] Life Cycle](https://velog.io/@10012/React-Life-Cycle)
 - [[React] Zustand 알아보기](https://velog.io/@10012/React-Zustand-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
-- [브라우저 렌더링을 알아보자!](https://velog.io/@10012/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EB%A0%8C%EB%8D%94%EB%A7%81)
 <!-- BLOG-POST-LIST:END -->
 
