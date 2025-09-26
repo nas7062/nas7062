@@ -31,10 +31,10 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Next.js] Next.js 기초](https://velog.io/@10012/Next.js-Next.js-%EA%B8%B0%EC%B4%88)
 - [[JavaScript] DFS/BFS](https://velog.io/@10012/JavaScript-DFSBFS)
 - [[Algorithm] 투 포인터 / 슬라이딩 윈도우](https://velog.io/@10012/Algorithm-%ED%88%AC-%ED%8F%AC%EC%9D%B8%ED%84%B0-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%94%A9-%EC%9C%88%EB%8F%84%EC%9A%B0)
 - [[React]useMemo](https://velog.io/@10012/ReactuseMemo)
 - [[JavaScript]var,let,const](https://velog.io/@10012/JavaScriptvarletconst)
-- [[React] Life Cycle](https://velog.io/@10012/React-Life-Cycle)
 <!-- BLOG-POST-LIST:END -->
 
