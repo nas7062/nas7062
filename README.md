@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=200&section=header&text=Frontend%20Developer%20김민석&fontSize=36&fontAlignY=35&animation=fadeIn" alt="header" />
 </p>
-  <p><b>문제 해결을 좋아하는 개발자 · 배움을 기록하는 사람</b></p>
+  <p><b>문제 해결을 좋아하는 개발자 · 배움을 기록하는 개발자 </b></p>
   <!-- 퀵 링크 -->
   <p>
     <a href="https://portpolio-10012.vercel.app/">Portfolio</a> ·
@@ -16,9 +16,8 @@
 <!-- ===== 소개 ===== -->
 ### 👋 About me
 - 목표: 프론트엔드 개발자
-- 좋아하는 것: 성능 최적화, 클린 코드
-- 지금 배우는 것: React,TypeScript
-- 공부 중 : Next.js
+- 좋아하는 것: 사용자 중심 UX/UI구성, 성능 최적화, 클린 코드
+- 지금 배우는 것: React,TypeScript,Next.js
 
 <!-- ===== 기술 스택 ===== -->
 ### 🧰 Tech Stack
