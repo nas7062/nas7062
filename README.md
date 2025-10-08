@@ -31,10 +31,10 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Next.js] 페이지 캐싱](https://velog.io/@10012/Next.js-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%BA%90%EC%8B%B1)
+- [[Next.js] Next.js 학습](https://velog.io/@10012/Next.js-Next.js-%ED%95%99%EC%8A%B5-v2zrh7b6)
 - [[Next.js] Next.js 학습](https://velog.io/@10012/Next.js-Next.js-%ED%95%99%EC%8A%B5-cu1jbgel)
 - [[Next.js] Next.js SSG ISR](https://velog.io/@10012/Next.js-Next.js-SSG-ISR)
 - [[Next.js] Next.js 학습](https://velog.io/@10012/Next.js-Next.js-%ED%95%99%EC%8A%B5-1z9vwhzx)
-- [[Next.js] Next.js 학습](https://velog.io/@10012/Next.js-Next.js-%ED%95%99%EC%8A%B5)
-- [[Next.js] Next.js 기초](https://velog.io/@10012/Next.js-Next.js-%EA%B8%B0%EC%B4%88-qjyf6ocx)
 <!-- BLOG-POST-LIST:END -->
 
