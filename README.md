@@ -31,10 +31,10 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Next.js] Next.js 공부](https://velog.io/@10012/Next.js-Next.js-%EA%B3%B5%EB%B6%80)
+- [Shadcn/ui](https://velog.io/@10012/Shadcnui)
 - [[Next.js] Next.js 학습](https://velog.io/@10012/Next.js-Next.js-%ED%95%99%EC%8A%B5-ggb0oda7)
 - [[Next.js] 고급 라우팅 패턴](https://velog.io/@10012/Next.js-%EA%B3%A0%EA%B8%89-%EB%9D%BC%EC%9A%B0%ED%8C%85-%ED%8C%A8%ED%84%B4)
 - [[Next.js] 서버 액션](https://velog.io/@10012/Next.js-%EC%84%9C%EB%B2%84-%EC%95%A1%EC%85%98)
-- [[Next.js] 스트리밍과 에러핸들링](https://velog.io/@10012/Next.js-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%EA%B3%BC-%EC%97%90%EB%9F%AC%ED%95%B8%EB%93%A4%EB%A7%81)
-- [[Next.js] 페이지 캐싱](https://velog.io/@10012/Next.js-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%BA%90%EC%8B%B1)
 <!-- BLOG-POST-LIST:END -->
 
