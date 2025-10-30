@@ -18,7 +18,7 @@
 - 목표: 프론트엔드 개발자
 - 좋아하는 것: 사용자 중심 UX/UI구성, 성능 최적화, 클린 코드
 - 지금 배우는 것: React,TypeScript,Next.js
-
+- 관심있는 스택 : React Native
 <!-- ===== 기술 스택 ===== -->
 ### 🧰 Tech Stack
 <!-- 뱃지형 아이콘: shields.io + simple-icons -->
