@@ -32,10 +32,10 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[TanStack Query] useMutation](https://velog.io/@10012/TanStack-Query-useMutation)
+- [[Next.js] Next.js 학습](https://velog.io/@10012/Next.js-Next.js-%ED%95%99%EC%8A%B5-dvqkl5o9)
 - [[Next.js] Next.js 공식문서 부시기](https://velog.io/@10012/Next.js-Next.js-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-%EB%B6%80%EC%8B%9C%EA%B8%B0-657rasxl)
 - [[Next.js] Next.js 공식문서 부시기](https://velog.io/@10012/Next.js-Next.js-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-%EB%B6%80%EC%8B%9C%EA%B8%B0-7rfaivf4)
 - [[Next.js] Next.js 학습](https://velog.io/@10012/Next.js-Next.js-%ED%95%99%EC%8A%B5-purn4du8)
-- [[Next.js] Next.js 공식문서 부시기](https://velog.io/@10012/Next.js-Next.js-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-%EB%B6%80%EC%8B%9C%EA%B8%B0)
-- [[Next.js] Next.js 학습](https://velog.io/@10012/Next.js-Next.js-%ED%95%99%EC%8A%B5-93n7u39r)
 <!-- BLOG-POST-LIST:END -->
 
