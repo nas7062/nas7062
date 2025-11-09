@@ -32,10 +32,10 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [MUI 사용방법 알아보기](https://velog.io/@10012/MUI-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 - [supabase 에러 해결](https://velog.io/@10012/supabase-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0)
 - [supabase 알아보기](https://velog.io/@10012/supabase-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 - [Shadcn ui 커스텀하기](https://velog.io/@10012/Shadcn-ui-%EC%BB%A4%EC%8A%A4%ED%85%80%ED%95%98%EA%B8%B0)
 - [[Next.js] Next.js 학습](https://velog.io/@10012/Next.js-Next.js-%ED%95%99%EC%8A%B5-b4j0lqy6)
-- [[TanStack Query] useMutation](https://velog.io/@10012/TanStack-Query-useMutation)
 <!-- BLOG-POST-LIST:END -->
 
