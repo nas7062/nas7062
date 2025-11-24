@@ -28,7 +28,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-20232a?logo=Next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn/ui-0F172A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/shadcn/ui-0F172A?logo=shadcn/ui&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/supabase-3FCF8E?logo=supabase&logoColor=3FCF8E" />
 </p>
 
 ## ✍️ Latest Velog Posts
