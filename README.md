@@ -34,10 +34,10 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[React-Native] 학습](https://velog.io/@10012/React-Native-%ED%95%99%EC%8A%B5-5lci63gr)
+- [[React-Native] 학습](https://velog.io/@10012/React-Native-%ED%95%99%EC%8A%B5)
 - [[ReactQuery] 좋아요 관리](https://velog.io/@10012/ReactQuery-%EC%A2%8B%EC%95%84%EC%9A%94-%EA%B4%80%EB%A6%AC)
 - [next-themes 다크모드](https://velog.io/@10012/next-themes-%EB%8B%A4%ED%81%AC%EB%AA%A8%EB%93%9C)
 - [supabase 회원가입 시 User 테이블에 저장하기](https://velog.io/@10012/supabase-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EC%8B%9C-User-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0)
-- [[next.js] 로그인 후 인증 상태 이해하기](https://velog.io/@10012/next.js-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%9B%84-%EC%9D%B8%EC%A6%9D-%EC%83%81%ED%83%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
-- [React Hook Form 과 zod](https://velog.io/@10012/React-Hook-Form-%EA%B3%BC-zod)
 <!-- BLOG-POST-LIST:END -->
 
