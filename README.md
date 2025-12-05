@@ -34,10 +34,10 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[React-Native] 학습](https://velog.io/@10012/React-Native-%ED%95%99%EC%8A%B5-4c2c0eqk)
 - [[React-Native] 학습](https://velog.io/@10012/React-Native-%ED%95%99%EC%8A%B5-brnxms21)
 - [[React-Native] 학습](https://velog.io/@10012/React-Native-%ED%95%99%EC%8A%B5-5lci63gr)
 - [[React-Native] 학습](https://velog.io/@10012/React-Native-%ED%95%99%EC%8A%B5)
 - [[ReactQuery] 좋아요 관리](https://velog.io/@10012/ReactQuery-%EC%A2%8B%EC%95%84%EC%9A%94-%EA%B4%80%EB%A6%AC)
-- [next-themes 다크모드](https://velog.io/@10012/next-themes-%EB%8B%A4%ED%81%AC%EB%AA%A8%EB%93%9C)
 <!-- BLOG-POST-LIST:END -->
 
