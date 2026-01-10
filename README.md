@@ -34,10 +34,10 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Next-auth 적용](https://velog.io/@10012/Next-auth-%EC%A0%81%EC%9A%A9)
 - [Prisma](https://velog.io/@10012/Prisma)
 - [Docker](https://velog.io/@10012/Docker)
 - [[React-Native] 학습](https://velog.io/@10012/React-Native-%ED%95%99%EC%8A%B5-4c2c0eqk)
 - [[React-Native] 학습](https://velog.io/@10012/React-Native-%ED%95%99%EC%8A%B5-brnxms21)
-- [[React-Native] 학습](https://velog.io/@10012/React-Native-%ED%95%99%EC%8A%B5-5lci63gr)
 <!-- BLOG-POST-LIST:END -->
 
