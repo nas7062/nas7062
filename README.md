@@ -34,10 +34,10 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Tanstack Query] 데이터 동기화](https://velog.io/@10012/Tanstack-Query-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%8F%99%EA%B8%B0%ED%99%94)
 - [[React] React 19.2 늦게 알아보기](https://velog.io/@10012/React-React-19.2-%EB%8A%A6%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 - [[Next.js] Suspense 와  dynamic import](https://velog.io/@10012/Next.js-Suspense-%EC%99%80-dynamic-import)
 - [[Next.js] Server Action vs Route Handler](https://velog.io/@10012/Next.js-Server-Action-vs-Route-Handler)
 - [Next-auth 적용](https://velog.io/@10012/Next-auth-%EC%A0%81%EC%9A%A9)
-- [Prisma](https://velog.io/@10012/Prisma)
 <!-- BLOG-POST-LIST:END -->
 
