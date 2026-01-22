@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/Next.js-20232a?logo=Next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn/ui-0F172A?logo=shadcn/ui&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/supabase-3FCF8E?logo=supabase&logoColor=3FCF8E" />
+   <img src="https://img.shields.io/badge/ReactNative-20232a?logo=react&logoColor=61DAFB" />
 </p>
 
 ## ✍️ Latest Velog Posts
