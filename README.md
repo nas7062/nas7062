@@ -35,10 +35,10 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[React] 리액트의 등장 배경](https://velog.io/@10012/React-%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%9D%98-%EB%93%B1%EC%9E%A5-%EB%B0%B0%EA%B2%BD)
+- [[Next.js] Next.js 결제 구현 with 포트원](https://velog.io/@10012/Next.js-Next.js-%EA%B2%B0%EC%A0%9C-%EA%B5%AC%ED%98%84-with-%ED%8F%AC%ED%8A%B8%EC%9B%90)
 - [[Tanstack Query] 데이터 동기화](https://velog.io/@10012/Tanstack-Query-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%8F%99%EA%B8%B0%ED%99%94)
 - [[React] React 19.2 늦게 알아보기](https://velog.io/@10012/React-React-19.2-%EB%8A%A6%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 - [[Next.js] Suspense 와  dynamic import](https://velog.io/@10012/Next.js-Suspense-%EC%99%80-dynamic-import)
-- [[Next.js] Server Action vs Route Handler](https://velog.io/@10012/Next.js-Server-Action-vs-Route-Handler)
-- [Next-auth 적용](https://velog.io/@10012/Next-auth-%EC%A0%81%EC%9A%A9)
 <!-- BLOG-POST-LIST:END -->
 
