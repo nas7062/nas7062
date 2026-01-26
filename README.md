@@ -35,10 +35,10 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Next.js] Next/image 알아보고 사용하자](https://velog.io/@10012/Next.js-Nextimage-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B3%A0-%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90)
 - [[JavaScript] 비동기와 이벤트 루프](https://velog.io/@10012/JavaScript-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%99%80-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84)
 - [[JavaScript] 자바스크립트 동작원리](https://velog.io/@10012/JavaScript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC)
 - [[React] 리액트의 등장 배경](https://velog.io/@10012/React-%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%9D%98-%EB%93%B1%EC%9E%A5-%EB%B0%B0%EA%B2%BD)
 - [[Next.js] Next.js 결제 구현 with 포트원](https://velog.io/@10012/Next.js-Next.js-%EA%B2%B0%EC%A0%9C-%EA%B5%AC%ED%98%84-with-%ED%8F%AC%ED%8A%B8%EC%9B%90)
-- [[Tanstack Query] 데이터 동기화](https://velog.io/@10012/Tanstack-Query-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%8F%99%EA%B8%B0%ED%99%94)
 <!-- BLOG-POST-LIST:END -->
 
