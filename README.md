@@ -35,10 +35,10 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Three.js] Three.js 기본 세팅 및 GLB파일 분해 및 조립](https://velog.io/@10012/Three.js-Three.js-%EA%B8%B0%EB%B3%B8-%EC%84%B8%ED%8C%85-%EB%B0%8F-GLB%ED%8C%8C%EC%9D%BC-%EB%B6%84%ED%95%B4-%EB%B0%8F-%EC%A1%B0%EB%A6%BD)
 - [[Next.js] 최적화로 LCP 낮추기](https://velog.io/@10012/Next.js-%EC%B5%9C%EC%A0%81%ED%99%94%EB%A1%9C-LCP-%EB%82%AE%EC%B6%94%EA%B8%B0)
 - [[Next.js] Next/image 알아보고 사용하자](https://velog.io/@10012/Next.js-Nextimage-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B3%A0-%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90)
 - [[JavaScript] 비동기와 이벤트 루프](https://velog.io/@10012/JavaScript-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%99%80-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84)
 - [[JavaScript] 자바스크립트 동작원리](https://velog.io/@10012/JavaScript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC)
-- [[React] 리액트의 등장 배경](https://velog.io/@10012/React-%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%9D%98-%EB%93%B1%EC%9E%A5-%EB%B0%B0%EA%B2%BD)
 <!-- BLOG-POST-LIST:END -->
 
