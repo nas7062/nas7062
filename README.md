@@ -35,10 +35,10 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [React Three Fiber 에서 GLTF explode 애니메이션이 점점 멀어지던 문제 해결](https://velog.io/@10012/React-Three-Fiber-%EC%97%90%EC%84%9C-GLTF-explode-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%EC%9D%B4-%EC%A0%90%EC%A0%90-%EB%A9%80%EC%96%B4%EC%A7%80%EB%8D%98-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
 - [[React] forwardRef, useImperativeHandle 이해하고 활용하기](https://velog.io/@10012/React-forwardRef-useImperativeHandle-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [[Three.js] Three.js 기본 세팅 및 GLB파일 분해 및 조립](https://velog.io/@10012/Three.js-Three.js-%EA%B8%B0%EB%B3%B8-%EC%84%B8%ED%8C%85-%EB%B0%8F-GLB%ED%8C%8C%EC%9D%BC-%EB%B6%84%ED%95%B4-%EB%B0%8F-%EC%A1%B0%EB%A6%BD)
 - [[Next.js] 최적화로 LCP 낮추기](https://velog.io/@10012/Next.js-%EC%B5%9C%EC%A0%81%ED%99%94%EB%A1%9C-LCP-%EB%82%AE%EC%B6%94%EA%B8%B0)
 - [[Next.js] Next/image 알아보고 사용하자](https://velog.io/@10012/Next.js-Nextimage-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B3%A0-%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90)
-- [[JavaScript] 비동기와 이벤트 루프](https://velog.io/@10012/JavaScript-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%99%80-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84)
 <!-- BLOG-POST-LIST:END -->
 
