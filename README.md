@@ -33,7 +33,7 @@
    <img src="https://img.shields.io/badge/ReactNative-20232a?logo=react&logoColor=61DAFB" />
 </p>
 
-## 🏆 Awards
+### 🏆 Awards
 <p>
   <img src="https://img.shields.io/badge/2026%20블레이버스%20MVP%20해커톤-최우수상-FFD700?style=for-the-badge" />
 </p>
