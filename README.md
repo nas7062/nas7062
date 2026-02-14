@@ -38,10 +38,9 @@
   <img src="https://img.shields.io/badge/2026%20블레이버스%20MVP%20해커톤-최우수상-FFD700?style=for-the-badge" />
 </p>
 
-- MVP 기획부터 구현까지 
 - React · Next.js 기반 서비스 설계 및 개발
 - 사용자 경험 개선과 Three.js 활용한 3D 인터렉션 구현
-- 디자이너, PM, 백엔드와의 협업
+
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
 - [React Three Fiber 에서 GLTF explode 애니메이션이 점점 멀어지던 문제 해결](https://velog.io/@10012/React-Three-Fiber-%EC%97%90%EC%84%9C-GLTF-explode-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%EC%9D%B4-%EC%A0%90%EC%A0%90-%EB%A9%80%EC%96%B4%EC%A7%80%EB%8D%98-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
