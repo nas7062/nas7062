@@ -35,7 +35,7 @@
 
 ### 🏆 Awards
 <p>
-  <img src="https://img.shields.io/badge/2026%20블레이버스%20MVP%20해커톤-최우수상-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/2026%20블레이버스%20MVP%20개발 해커톤-최우수상-FFD700?style=for-the-badge" />
 </p>
 
 - React · Next.js 기반 서비스 설계 및 개발
