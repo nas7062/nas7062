@@ -43,10 +43,10 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Java의 정석 강의로 Java 학습하기](https://velog.io/@10012/Java%EC%9D%98-%EC%A0%95%EC%84%9D-%EA%B0%95%EC%9D%98%EB%A1%9C-Java-%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0-i3yrcfpx)
 - [Java의 정석 강의로 Java 학습하기](https://velog.io/@10012/Java%EC%9D%98-%EC%A0%95%EC%84%9D-%EA%B0%95%EC%9D%98%EB%A1%9C-Java-%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0-uoyjubp5)
 - [Java의 정석 강의로 Java 학습하기](https://velog.io/@10012/Java%EC%9D%98-%EC%A0%95%EC%84%9D-%EA%B0%95%EC%9D%98%EB%A1%9C-Java-%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0)
 - [React Three Fiber 에서 GLTF explode 애니메이션이 점점 멀어지던 문제 해결](https://velog.io/@10012/React-Three-Fiber-%EC%97%90%EC%84%9C-GLTF-explode-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%EC%9D%B4-%EC%A0%90%EC%A0%90-%EB%A9%80%EC%96%B4%EC%A7%80%EB%8D%98-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
 - [[React] forwardRef, useImperativeHandle 이해하고 활용하기](https://velog.io/@10012/React-forwardRef-useImperativeHandle-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
-- [[Three.js] Three.js 기본 세팅 및 GLB파일 분해 및 조립](https://velog.io/@10012/Three.js-Three.js-%EA%B8%B0%EB%B3%B8-%EC%84%B8%ED%8C%85-%EB%B0%8F-GLB%ED%8C%8C%EC%9D%BC-%EB%B6%84%ED%95%B4-%EB%B0%8F-%EC%A1%B0%EB%A6%BD)
 <!-- BLOG-POST-LIST:END -->
 
