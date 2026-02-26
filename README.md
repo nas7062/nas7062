@@ -43,10 +43,10 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Java의 정석 인터페이스 그리고 내부 클래스](https://velog.io/@10012/Java%EC%9D%98-%EC%A0%95%EC%84%9D-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%82%B4%EB%B6%80-%ED%81%B4%EB%9E%98%EC%8A%A4)
+- [Java의 정석 객체지향 프로그래밍](https://velog.io/@10012/Java%EC%9D%98-%EC%A0%95%EC%84%9D-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-ps22q4gh)
 - [Java의 정석 객체지향 프로그래밍](https://velog.io/@10012/Java%EC%9D%98-%EC%A0%95%EC%84%9D-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 - [Java의 정석 강의로 Java 학습하기](https://velog.io/@10012/Java%EC%9D%98-%EC%A0%95%EC%84%9D-%EA%B0%95%EC%9D%98%EB%A1%9C-Java-%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0-i3yrcfpx)
 - [Java의 정석 강의로 Java 학습하기](https://velog.io/@10012/Java%EC%9D%98-%EC%A0%95%EC%84%9D-%EA%B0%95%EC%9D%98%EB%A1%9C-Java-%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0-uoyjubp5)
-- [Java의 정석 강의로 Java 학습하기](https://velog.io/@10012/Java%EC%9D%98-%EC%A0%95%EC%84%9D-%EA%B0%95%EC%9D%98%EB%A1%9C-Java-%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0)
-- [React Three Fiber 에서 GLTF explode 애니메이션이 점점 멀어지던 문제 해결](https://velog.io/@10012/React-Three-Fiber-%EC%97%90%EC%84%9C-GLTF-explode-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%EC%9D%B4-%EC%A0%90%EC%A0%90-%EB%A9%80%EC%96%B4%EC%A7%80%EB%8D%98-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
 <!-- BLOG-POST-LIST:END -->
 
