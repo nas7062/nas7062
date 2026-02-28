@@ -50,3 +50,5 @@
 - [Java의 정석 강의로 Java 학습하기](https://velog.io/@10012/Java%EC%9D%98-%EC%A0%95%EC%84%9D-%EA%B0%95%EC%9D%98%EB%A1%9C-Java-%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0-i3yrcfpx)
 <!-- BLOG-POST-LIST:END -->
 
+## My Music
+![My Music](https://sound-badge.vercel.app/api/card.svg?url=https://www.youtube.com/watch?v=tKERw3_ked0&list=RDtKERw3_ked0&start_radio=1)
