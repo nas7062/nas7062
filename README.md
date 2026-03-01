@@ -43,11 +43,11 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [JAVA의 정석](https://velog.io/@10012/JAVA%EC%9D%98-%EC%A0%95%EC%84%9D)
 - [Java의 정석 예외처리](https://velog.io/@10012/Java%EC%9D%98-%EC%A0%95%EC%84%9D-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC)
 - [Java의 정석 인터페이스 그리고 내부 클래스](https://velog.io/@10012/Java%EC%9D%98-%EC%A0%95%EC%84%9D-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%82%B4%EB%B6%80-%ED%81%B4%EB%9E%98%EC%8A%A4)
 - [Java의 정석 객체지향 프로그래밍](https://velog.io/@10012/Java%EC%9D%98-%EC%A0%95%EC%84%9D-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-ps22q4gh)
 - [Java의 정석 객체지향 프로그래밍](https://velog.io/@10012/Java%EC%9D%98-%EC%A0%95%EC%84%9D-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
-- [Java의 정석 강의로 Java 학습하기](https://velog.io/@10012/Java%EC%9D%98-%EC%A0%95%EC%84%9D-%EA%B0%95%EC%9D%98%EB%A1%9C-Java-%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0-i3yrcfpx)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎧 My Music
