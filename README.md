@@ -43,11 +43,11 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Nest.js](https://velog.io/@10012/Nest.js)
+- [세션과 인증](https://velog.io/@10012/%EC%84%B8%EC%85%98%EA%B3%BC-%EC%9D%B8%EC%A6%9D)
 - [Express 쿠키와 인증](https://velog.io/@10012/Express-%EC%BF%A0%ED%82%A4%EC%99%80-%EC%9D%B8%EC%A6%9D)
 - [Node.js와 Express기초](https://velog.io/@10012/Node.js-%EA%B8%B0%EC%B4%88)
 - [JAVA의 정석](https://velog.io/@10012/JAVA%EC%9D%98-%EC%A0%95%EC%84%9D-812qkybq)
-- [E2E 테스트란? &lpar;프론트엔드에서 왜 필요한가&rpar;](https://velog.io/@10012/E2E-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%9E%80-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%97%90%EC%84%9C-%EC%99%9C-%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80)
-- [JAVA의 정석](https://velog.io/@10012/JAVA%EC%9D%98-%EC%A0%95%EC%84%9D)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎧 My Music
