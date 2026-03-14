@@ -15,10 +15,10 @@
 
 <!-- ===== 소개 ===== -->
 ### 👋 About me
-- 목표: 프론트엔드 개발자
+- 목표: 사용자 경험을 개선하는 프론트엔드 개발자를 목표로 합니다.
 - 좋아하는 것: 사용자 중심 UX/UI구성, 성능 최적화, 클린 코드
-- 지금 배우는 것: React,TypeScript, Next.js, React Native, node.js
-- 관심있는 스택 : Java, nest.js
+- 지금 배우는 것: React · TypeScript · Next.js · React Native · Node.js
+- 관심있는 스택 : Java · NestJS
 <!-- ===== 기술 스택 ===== -->
 ### 🧰 Tech Stack
 <!-- 뱃지형 아이콘: shields.io + simple-icons -->
@@ -50,5 +50,22 @@
 - [Node.js와 Express기초](https://velog.io/@10012/Node.js-%EA%B8%B0%EC%B4%88)
 <!-- BLOG-POST-LIST:END -->
 
-## 🎧 My Music
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nas7062&show_icons=true)
+## 📊  Interests &  Learning
+<table>
+<tr>
+<td>
+  
+### 🎧 My Music  
 ![My Music](https://sound-badge.vercel.app/api/card.svg?url=https://www.youtube.com/watch?v=tKERw3_ked0&list=RDtKERw3_ked0&start_radio=1)
+</td>
+<td>
+  
+### 🦉 My Duolingo  
+![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=nas7062)
+
+</td>
+</tr>
+</table>
