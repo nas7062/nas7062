@@ -43,11 +43,11 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PostgresSQL &amp; TypeORM](https://velog.io/@10012/PostgresSQL-TypeORM)
+- [Nest.js Pipe](https://velog.io/@10012/Nest.js-Pipe)
 - [Nest.js  CRUD](https://velog.io/@10012/Nest.js-CRUD)
 - [Nest.js](https://velog.io/@10012/Nest.js)
 - [세션과 인증](https://velog.io/@10012/%EC%84%B8%EC%85%98%EA%B3%BC-%EC%9D%B8%EC%A6%9D)
-- [Express 쿠키와 인증](https://velog.io/@10012/Express-%EC%BF%A0%ED%82%A4%EC%99%80-%EC%9D%B8%EC%A6%9D)
-- [Node.js와 Express기초](https://velog.io/@10012/Node.js-%EA%B8%B0%EC%B4%88)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
