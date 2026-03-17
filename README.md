@@ -43,11 +43,11 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Nest.js 인증 구현](https://velog.io/@10012/PostgresSQL-CRUD)
 - [PostgresSQL &amp; TypeORM](https://velog.io/@10012/PostgresSQL-TypeORM)
 - [Nest.js Pipe](https://velog.io/@10012/Nest.js-Pipe)
 - [Nest.js  CRUD](https://velog.io/@10012/Nest.js-CRUD)
 - [Nest.js](https://velog.io/@10012/Nest.js)
-- [세션과 인증](https://velog.io/@10012/%EC%84%B8%EC%85%98%EA%B3%BC-%EC%9D%B8%EC%A6%9D)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
