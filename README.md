@@ -43,11 +43,11 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Prisma 사용법 및 문법](https://velog.io/@10012/Prisma-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%8F-%EB%AC%B8%EB%B2%95)
+- [Nest.js IoC 및 DI](https://velog.io/@10012/Nest.js-IoC-%EB%B0%8F-DI)
+- [Nest.js 권한 처리](https://velog.io/@10012/Nest.js-%EA%B6%8C%ED%95%9C-%EC%B2%98%EB%A6%AC)
 - [Nest.js 인증 구현](https://velog.io/@10012/PostgresSQL-CRUD)
 - [PostgresSQL &amp; TypeORM](https://velog.io/@10012/PostgresSQL-TypeORM)
-- [Nest.js Pipe](https://velog.io/@10012/Nest.js-Pipe)
-- [Nest.js  CRUD](https://velog.io/@10012/Nest.js-CRUD)
-- [Nest.js](https://velog.io/@10012/Nest.js)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
