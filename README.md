@@ -43,11 +43,11 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Auth.js로 인증 시스템 구현](https://velog.io/@10012/Auth.js%EB%A1%9C-%EC%9D%B8%EC%A6%9D-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%ED%98%84)
 - [Prisma + Docker PostgreSQL 연결 오류 해결 &lpar;Windows&rpar;](https://velog.io/@10012/Prisma-Docker-PostgreSQL-%EC%97%B0%EA%B2%B0-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0-Windows)
 - [Docker로 PostgreSQL 띄우기](https://velog.io/@10012/Docker%EB%A1%9C-PostgreSQL-%EB%9D%84%EC%9A%B0%EA%B8%B0)
 - [Prisma 사용법 및 문법](https://velog.io/@10012/Prisma-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%8F-%EB%AC%B8%EB%B2%95)
 - [Nest.js IoC 및 DI](https://velog.io/@10012/Nest.js-IoC-%EB%B0%8F-DI)
-- [Nest.js 권한 처리](https://velog.io/@10012/Nest.js-%EA%B6%8C%ED%95%9C-%EC%B2%98%EB%A6%AC)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
