@@ -51,11 +51,11 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Prisma Model 정리](https://velog.io/@10012/Prisma-Model-%EC%A0%95%EB%A6%AC)
+- [Next.js + Nest.js JWT 인증 구조 전체 흐름 정리](https://velog.io/@10012/Next.js-Nest.js-JWT-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%EC%A1%B0-%EC%A0%84%EC%B2%B4-%ED%9D%90%EB%A6%84-%EC%A0%95%EB%A6%AC)
 - [[Next.js] 서버 vs 클라이언트 데이터 패칭에 대해  알아보기](https://velog.io/@10012/Next.js-%EC%84%9C%EB%B2%84-vs-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%8C%A8%EC%B9%AD%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 - [NextJS Auth Guard로 유저 불러오기](https://velog.io/@10012/NextJS-Auth-Guard%EB%A1%9C-%EC%9C%A0%EC%A0%80-%EB%B6%88%EB%9F%AC%EC%98%A4%EA%B8%B0)
 - [Auth.js로 인증 시스템 구현](https://velog.io/@10012/Auth.js%EB%A1%9C-%EC%9D%B8%EC%A6%9D-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%ED%98%84)
-- [Prisma + Docker PostgreSQL 연결 오류 해결 &lpar;Windows&rpar;](https://velog.io/@10012/Prisma-Docker-PostgreSQL-%EC%97%B0%EA%B2%B0-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0-Windows)
-- [Docker로 PostgreSQL 띄우기](https://velog.io/@10012/Docker%EB%A1%9C-PostgreSQL-%EB%9D%84%EC%9A%B0%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
