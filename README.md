@@ -58,9 +58,7 @@
 - [Prisma Model 정리](https://velog.io/@10012/Prisma-Model-%EC%A0%95%EB%A6%AC)
 <!-- BLOG-POST-LIST:END -->
 
-## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nas7062&show_icons=true)
 ## 📊  Interests &  Learning
 <table>
 <tr>
@@ -77,3 +75,7 @@
 </td>
 </tr>
 </table>
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nas7062&show_icons=true)
