@@ -51,11 +51,11 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [React Query로 서버 상태와 클라이언트 상태를 분리하는 이유](https://velog.io/@10012/React-Query%EB%A1%9C-%EC%84%9C%EB%B2%84-%EC%83%81%ED%83%9C%EC%99%80-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%83%81%ED%83%9C%EB%A5%BC-%EB%B6%84%EB%A6%AC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 - [NestJS + Prisma로 강의&lpar;Lecture&rpar; CRUD API 구현하기](https://velog.io/@10012/NestJS-Prisma%EB%A1%9C-%EA%B0%95%EC%9D%98Lecture-CRUD-API-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 - [@hey-api/openapi-ts로 API 클라이언트 자동 생성하기](https://velog.io/@10012/hey-apiopenapi-ts%EB%A1%9C-API-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%9E%90%EB%8F%99-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
 - [NestJS + Prisma로 Course CRUD API 구현하기](https://velog.io/@10012/NestJS-Prisma%EB%A1%9C-Course-CRUD-API-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 - [Prisma Model 정리](https://velog.io/@10012/Prisma-Model-%EC%A0%95%EB%A6%AC)
-- [Next.js + Nest.js JWT 인증 구조 전체 흐름 정리](https://velog.io/@10012/Next.js-Nest.js-JWT-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%EC%A1%B0-%EC%A0%84%EC%B2%B4-%ED%9D%90%EB%A6%84-%EC%A0%95%EB%A6%AC)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
