@@ -46,9 +46,6 @@
   <img src="https://img.shields.io/badge/2026%20블레이버스%20MVP%20개발 해커톤-최우수상-FFD700?style=for-the-badge" />
 </p>
 
-- React · Next.js 기반 서비스 설계 및 개발
-- 사용자 경험 개선과 Three.js 활용한 3D 인터렉션 구현
-
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
 - [React Query는 queryKey를 어떻게 비교할까?](https://velog.io/@10012/React-Query%EB%8A%94-queryKey%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B9%84%EA%B5%90%ED%95%A0%EA%B9%8C)
