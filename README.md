@@ -48,11 +48,11 @@
 
 ## ✍️ Latest Velog Posts
 <!-- BLOG-POST-LIST:START -->
+- [검색 API, GET Query String vs POST Body로 — 뭐가 더 맞을까?](https://velog.io/@10012/%EA%B2%80%EC%83%89-API-GET-Query-String-vs-POST-Body%EB%A1%9C-%EB%AD%90%EA%B0%80-%EB%8D%94-%EB%A7%9E%EC%9D%84%EA%B9%8C)
 - [React Query는 queryKey를 어떻게 비교할까?](https://velog.io/@10012/React-Query%EB%8A%94-queryKey%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B9%84%EA%B5%90%ED%95%A0%EA%B9%8C)
 - [AWS S3/CloudFront  설정 해보기 / 동영상 업로드](https://velog.io/@10012/AWS-S3CloudFront-%EC%84%A4%EC%A0%95-%ED%95%B4%EB%B3%B4%EA%B8%B0-%EB%8F%99%EC%98%81%EC%83%81-%EC%97%85%EB%A1%9C%EB%93%9C)
 - [React Query로 서버 상태와 클라이언트 상태를 분리하는 이유](https://velog.io/@10012/React-Query%EB%A1%9C-%EC%84%9C%EB%B2%84-%EC%83%81%ED%83%9C%EC%99%80-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%83%81%ED%83%9C%EB%A5%BC-%EB%B6%84%EB%A6%AC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 - [NestJS + Prisma로 강의&lpar;Lecture&rpar; CRUD API 구현하기](https://velog.io/@10012/NestJS-Prisma%EB%A1%9C-%EA%B0%95%EC%9D%98Lecture-CRUD-API-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
-- [@hey-api/openapi-ts로 API 클라이언트 자동 생성하기](https://velog.io/@10012/hey-apiopenapi-ts%EB%A1%9C-API-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%9E%90%EB%8F%99-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
 
 
