@@ -61,10 +61,6 @@
 <tr>
 <td>
   
-### 🎧 My Music  
-![My Music](https://sound-badge.vercel.app/api/card.svg?url=https://www.youtube.com/watch?v=tKERw3_ked0&list=RDtKERw3_ked0&start_radio=1)
-</td>
-<td>
   
 ### 🦉 My Duolingo  
 ![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=nas7062)
